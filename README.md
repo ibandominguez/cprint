@@ -21,7 +21,7 @@ int main() {
 }
 ```
 
-# Re-compinling the demo
+# Re-compiling the demo
 
 ```sh
 $ cd cprint
